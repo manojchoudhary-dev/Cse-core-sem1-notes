@@ -2,4 +2,6 @@
 
 Notes and study material — B.Tech CSE (Core), Semester 1, IIIT Bhopal.
 
-Add notes and PDFs for this subject in this folder.
+Files in this folder:
+
+- `physics-quantum-lecture1-2-written.pdf` — Quantum Mechanics (Lectures 1–2), typed notes
