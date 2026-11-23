@@ -10,4 +10,10 @@ My study notes for B.Tech CSE (Core), Semester 1 at IIIT Bhopal, organised by su
 | `foee` | Fundamentals of Electrical & Electronics Engineering |
 | `professional-communication` | Professional Communication |
 
+## Files added so far
+
+- `physics/physics-quantum-lecture1-2-written.pdf` — Quantum Mechanics (Lectures 1–2), typed notes
+- `foee/foee-endterm-pack-typed.pdf` — FOEE end-term full pack, typed English version
+- `maths-1/ts4-fair-copy-and-understanding.pdf` — Maths Tutorial Sheet 4, solved
+
 Notes are added subject-wise as the semester progresses. FOCP lab programs live in a separate repo: [focp-lab-programs](https://github.com/manoj-dev01/focp-lab-programs).
