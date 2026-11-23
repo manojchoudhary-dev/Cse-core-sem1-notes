@@ -2,4 +2,6 @@
 
 Notes and study material — B.Tech CSE (Core), Semester 1, IIIT Bhopal.
 
-Add notes and PDFs for this subject in this folder.
+Files in this folder:
+
+- `ts4-fair-copy-and-understanding.pdf` — Tutorial Sheet 4, solved (fair copy + understanding notes)
