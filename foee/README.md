@@ -2,4 +2,6 @@
 
 Notes and study material — B.Tech CSE (Core), Semester 1, IIIT Bhopal.
 
-Add notes and PDFs for this subject in this folder.
+Files in this folder:
+
+- `foee-endterm-pack-typed.pdf` — End-term full pack, typed English version (all topics)
